@@ -1,0 +1,69 @@
+.text-aling {
+	text-align: center;
+}
+.logo {
+	max-width:60%;
+	}
+	.principal {
+		margin-top:9%;
+	}
+	.inclusion {
+		padding-top:10%;
+	}
+	.etica {
+		padding-top:8%;
+	}
+	.jorgito {
+		display: -webkit-box;
+		text-align: -webkit-center;
+	}
+	.jorge {
+		padding-top:11%;
+	}
+	.capacitacion {
+		 display: -webkit-box;
+    	text-align: -webkit-center;
+	}
+	.fundacion {
+		float:left;
+		padding-right: 30px;
+	}
+	.fundacionh1 {
+		padding-left:375px;
+
+	}
+	.fundacionh2 {
+		text-align: center;
+	}
+	h2 {
+		text-align: center;
+	}
+	.redes {
+		position: relative;
+		top:-53px;
+		left:152px;
+	}
+	.siguenos {
+		padding-left:50px;
+		padding-top: 20px;
+
+	}
+	footer {
+		background-color:#04B431;
+		
+		font-size:25px;
+	}
+	footer a {
+		color:#E6E6E6;
+		text-decoration: none;
+	}
+	footer p {
+		font-size:20px;
+		padding-top:50px;
+		position: relative;
+		top:-80px;
+		left:200px;
+	}
+	.map {
+		margin-top:155px;
+	}
